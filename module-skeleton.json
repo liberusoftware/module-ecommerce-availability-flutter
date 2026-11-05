@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-availability-flutter",
+  "capabilityKey": "planned:ecommerce:availability",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_availability_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/availability.md",
+  "presentationPlan": "projects/ecommerce/flutter/availability.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
